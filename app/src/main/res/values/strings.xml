@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Firebase FB AccountKit AndroidAuth</string>
     <string name="action_settings">Settings</string>
+    <string name="FACEBOOK_APP_ID">308689622827090</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">f1c330dc0d06e6de20d24464f5027d5a</string>
+    <string name="log_in_phone_button">Login with Phone Number</string>
+    <string name="title_activity_logged_in">LoggedInActivity</string>
+    <string name="logged_in_text">Great! You\'re logged in.</string>
 </resources>

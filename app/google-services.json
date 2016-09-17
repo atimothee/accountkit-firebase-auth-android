@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "355355977558",
+    "firebase_url": "https://fb-accountkit-auth-demo.firebaseio.com",
+    "project_id": "fb-accountkit-auth-demo",
+    "storage_bucket": "fb-accountkit-auth-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355355977558:android:4efc11eb9909a96e",
+        "android_client_info": {
+          "package_name": "xyz.atimothee.firebasefbaccountkitandroidauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355355977558-5q4mpo11jq09n3lisom6kbvobfci0p3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xyz.atimothee.firebasefbaccountkitandroidauth",
+            "certificate_hash": "1EE2B000CEFC755F5E585654E9A38EBBAE6CFA05"
+          }
+        },
+        {
+          "client_id": "355355977558-qdto24pmu5mdkek5bmfknis0pqtujfem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfgVaDyDn4Ku-gCydzkjtr0nD4MAN30ew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355355977558-qdto24pmu5mdkek5bmfknis0pqtujfem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

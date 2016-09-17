@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fb-accountkit-auth-demo",
+  "private_key_id": "04a355a575d345efd08762dcb3b9248f2b6ddf3f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMCR8yKNO9bOvy\niKMdXYJ3JvbSeJYEiRVm4TWQjXzt0QEQmHTHVMlYfsbYd3XyacvMsQMWRJ1mCpOG\nJCmpekcMTWX9lHUgR0XnLXD7VocMGcAXVoTwUtsgxc6/3yXnCBjKG6h1O2SLt69M\nTOFbzTH66A5DR49BFt1O/UEqxI7Kig34pOwm+3roneSQNLJTHCFW6vs0U8aiQbtA\ntRDAS14Igivzk8MzXwqRMMvv5IlDCDSKWcNM+SaWwopZ0fFaX7fyiVXCvVsAbQkd\nZr59y/CgOmY90yVOUxFusrkAKf4/JB/CVZmVgD8nk8+qhevoLbK7fOxGo8q9d9N9\n77ffeyS1AgMBAAECggEADh2bcObuLy637CGT11Y+zmt9q/X3uvyY5HM0N3nyaKmK\n/1Ds01WEUIEE1Lj/CfRTyyd75TB+Cy80IZWi5Dy3aZx5L9/zcnY72dCE/n5v/WBS\nr8qmi9HPoybMNO4FO0SOIn1jXCjtvdTJZefzt1ws1wTy56itun0QdoSC26iZkF14\n6a9z8zJ19fc9P7aoVzWT8HFhO7occpznt6kffdQvG6+wDuS7W5y/huBuDRcFM3o9\nGRDZKKDpXZkFHdt+Mr+pGo/vhYbeQ5DNeoejwJEGMZMuCU/xE11LICU6GfdTlGVx\npFG8bEkApoMVjn3zlF3h4YBfvXgaEDL4kaXFB0XYCQKBgQD94PcoLOb2hAiPLISv\nwtNYuw7mODmUTbiwi8Xmkm0hmQj+BGoAMbxu7TatKmCjdBw1fbksNQfNJ7LU20lv\nOQDBDv1D8BHv0i44Sg8Uv2IT7emOgioAZWt48Xir35kgoZFRZEZw5ZW5QiWw/qIS\nFp9j4C7jPuEyPsOv16bjmO+WxwKBgQDNvYtYGOKm7HoM1ol/6tq68ZuezZ1Ky0Ft\n0pYAkbY1NzEl4j7AY8K6Jr8CHaYY71zjbA02AggMKifVoNPwVMJ1k+BrZwfNg3F1\nu62VLg1VffREOcx3uQD53KDMd4zTd8yCKB3MFnvqw+gTEGux8DBXP3RcCeolS32N\nppqpTiy8owKBgQDe3G7aS6Br4jeJR3EqwQG6MGrB2bVh5GAuSmRtJTi7d5WXNtS+\nWuqpDX8jv8GZesGQi07T6bFxfFnV1LG/+vAYiUn2K3XzajO8ofZfJim4iO6vdL/e\nHSmcv4xIhD3tkSb5pebYEBHA0Lo5hy1KZ6V/jTpbrcUN0F8Dq3EK9iPL3QKBgEob\nOfPTkuA5UYUKSaCvwXWQzVMYEM3+BGVAcxNlaNImPSe+JIg75soSZr6mW0uj/DtW\nkjOf67ImBQ8nzO9GOH0NdMp65A6ch+O2ZEHVwqvGoJNqlkGRe86EL882SJ1rC1je\nhk0a1CutwQwM4B3JvD/Q9WKpl5Mza9f36MGPDQItAoGBAPPROptpMTEjAo5PO5yd\nOVybEEvuGnicu1hFNClP2hQkWFwt7jT0lmsvDcnfexaamChVcibx8X086rsfhA8E\nUaZ5bW4eqGS2ZQ81bfu81GnqVGcwVXXSbwbUQoWvnPZn5PCB0Q/5VCW0+A8fZFFs\nbRygfde24tUU5VPp3LBS/bSH\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-service-account@fb-accountkit-auth-demo.iam.gserviceaccount.com",
+  "client_id": "104741150275479066290",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-service-account%40fb-accountkit-auth-demo.iam.gserviceaccount.com"
+}
